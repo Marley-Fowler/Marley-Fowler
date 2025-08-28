@@ -4,10 +4,11 @@ I'm Marley, at the time of working on this, I'm 14 years old and am working to b
 ## 🌐 Socials:
 [LinkedIn] : (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Marley Mika-Fowler) 
 
-# 💻 Tech Stack:
-![]Languages: Python, C, SQL, Javascript
-![]Technical skills: ...shhh...
-![]Working towards: AWS, GCP, Azure, Terraforming
+# 💻 Skills:
+Languages: Python, C, SQL, Javascript
+
+
+Working towards: AWS, GCP, Azure, Terraforming
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Marley-Fowler&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
